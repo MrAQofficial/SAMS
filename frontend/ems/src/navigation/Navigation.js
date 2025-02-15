@@ -3,6 +3,7 @@ import {createNativeStackNavigator} from "@react-navigation/native-stack";
 import { NavigationContainer } from "@react-navigation/native";
 import { navigationRef } from "../utils/NavigationUtils";
 import StudentDashboard from "../features/dashboard/StudentDashboard";
+import StudentDashboardTeacher from "../features/dashboard/TeacherDashboard";
 import SplashScreenComponent from "../features/auth/SplashScreen";
 // import { useNavigation } from '@react-navigation/native';
 

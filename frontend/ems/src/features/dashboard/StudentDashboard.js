@@ -4,7 +4,7 @@ import { View, Text } from 'react-native';
 const StudentDashboard = () => {
   return (
     <View>
-      <Text>Student Dashboard</Text>
+      <Text>Hello Mr Student</Text>
     </View>
   );
 };
